@@ -1,6 +1,9 @@
 # hello-world
 first repository
 
-stuff
-   stuff
-      stuff
+Greetings Friends!
+
+I'm learning how to use GitHub.
+
+Have a good day!
+Nighthawk172
